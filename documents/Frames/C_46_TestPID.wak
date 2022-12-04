@@ -1,0 +1,17 @@
+[Protocol]
+Address 1=0
+Command 1=46
+Command Name 1=TestPID
+Data Frame 1=01 2EE0
+Frame 1 Enable=0
+Address 2=0
+Command 2=48
+Command Name 2= Get p i d 
+Data Frame 2=
+Frame 2 Enable=0
+Address 3=0
+Command 3=41
+Command Name 3=Set p i d 
+Data Frame 3=01 0019 000C 0010
+Frame 3 Enable=0
+

@@ -1,0 +1,17 @@
+[Protocol]
+Address 1=0
+Command 1=58
+Command Name 1=Set BB8=3000mV
+Data Frame 1=01 0BB8
+Frame 1 Enable=0
+Address 2=0
+Command 2=41
+Command Name 2=V kp ki kd
+Data Frame 2=00 0050 0005 0000
+Frame 2 Enable=0
+Address 3=0
+Command 3=58
+Command Name 3=PID off
+Data Frame 3=00 0000
+Frame 3 Enable=0
+

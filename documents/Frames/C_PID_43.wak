@@ -1,0 +1,17 @@
+[Protocol]
+Address 1=0
+Command 1=46
+Command Name 1=pid_test
+Data Frame 1=00 03 00 00 00 00 00 01
+Frame 1 Enable=1
+Address 2=0
+Command 2=42
+Command Name 2=output_range
+Data Frame 2=00 66 00 65
+Frame 2 Enable=0
+Address 3=0
+Command 3=40
+Command Name 3=pid_config
+Data Frame 3=00 0A 00 32 00 00 03 E8 00 0A 00
+Frame 3 Enable=0
+

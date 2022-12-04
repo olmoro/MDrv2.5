@@ -1,0 +1,17 @@
+[Protocol]
+Address 1=0
+Command 1=55
+Command Name 1=adc_U 55
+Data Frame 1=01   00   00  03  00  00     0000    12BA
+Frame 1 Enable=0
+Address 2=0
+Command 2=56
+Command Name 2=adc_I 56
+Data Frame 2=01   00   02  03  00  00     0000    03AD
+Frame 2 Enable=0
+Address 3=0
+Command 3=57 
+Command Name 3=adc_T 57
+Data Frame 3=01   00   00  03  04  00     0000    2710    2710
+Frame 3 Enable=1
+

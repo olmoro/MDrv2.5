@@ -1,0 +1,17 @@
+[Protocol]
+Address 1=0
+Command 1=40
+Command Name 1=pidConfig
+Data Frame 1=01 0100 080 0000 00 00
+Frame 1 Enable=1
+Address 2=0
+Command 2=42
+Command Name 2=pid min max
+Data Frame 2=01 0000 01FF
+Frame 2 Enable=0
+Address 3=0
+Command 3=20
+Command Name 3=PowerGo
+Data Frame 3=2710 0BB8
+Frame 3 Enable=0
+

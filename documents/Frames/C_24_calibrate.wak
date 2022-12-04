@@ -1,0 +1,17 @@
+[Protocol]
+Address 1=0
+Command 1=24
+Command Name 1=read Calibrate
+Data Frame 1=00
+Frame 1 Enable=0
+Address 2=0
+Command 2=25
+Command Name 2=set Calibrate
+Data Frame 2=00 0000 1690
+Frame 2 Enable=0
+Address 3=0
+Command 3=26
+Command Name 3=set Factory
+Data Frame 3=00
+Frame 3 Enable=1
+

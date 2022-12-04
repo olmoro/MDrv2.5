@@ -1,0 +1,17 @@
+[Protocol]
+Address 1=0
+Command 1=5A
+Command Name 1=TestDAC
+Data Frame 1=00 0380
+Frame 1 Enable=0
+Address 2=0
+Command 2=41
+Command Name 2= Set p i d 
+Data Frame 2=01 00A0 0020 0000
+Frame 2 Enable=0
+Address 3=0
+Command 3=10
+Command Name 3=min max
+Data Frame 3=
+Frame 3 Enable=0
+

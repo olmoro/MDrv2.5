@@ -1,0 +1,17 @@
+[Protocol]
+Address 1=0
+Command 1=50
+Command Name 1=adc_probes 50
+Data Frame 1=   
+Frame 1 Enable=0
+Address 2=0
+Command 2=58
+Command Name 2=offsetComp 58
+Data Frame 2= 01   00 00 00 00
+Frame 2 Enable=0
+Address 3=0
+Command 3=52
+Command Name 3=adc_confAdc 52
+Data Frame 3=00   01   03   04   01
+Frame 3 Enable=1
+

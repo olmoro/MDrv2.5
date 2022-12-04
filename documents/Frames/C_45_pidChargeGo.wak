@@ -1,0 +1,17 @@
+[Protocol]
+Address 1=0
+Command 1=45
+Command Name 1=pidChargeGo
+Data Frame 1=1120 0100
+Frame 1 Enable=1
+Address 2=0
+Command 2=63
+Command Name 2=doPower_xx%
+Data Frame 2=01
+Frame 2 Enable=1
+Address 3=0
+Command 3=10
+Command Name 3=ui
+Data Frame 3=
+Frame 3 Enable=0
+

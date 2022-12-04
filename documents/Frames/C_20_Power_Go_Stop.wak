@@ -1,0 +1,17 @@
+[Protocol]
+Address 1=0
+Command 1=20
+Command Name 1=PowerGo
+Data Frame 1=0820 01B0
+Frame 1 Enable=0
+Address 2=0
+Command 2=21
+Command Name 2=PowerStop 
+Data Frame 2=
+Frame 2 Enable=0
+Address 3=0
+Command 3=13
+Command Name 3=GetUI
+Data Frame 3=
+Frame 3 Enable=0
+

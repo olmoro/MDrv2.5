@@ -1,0 +1,17 @@
+[Protocol]
+Address 1=0
+Command 1=46
+Command Name 1=pid_test
+Data Frame 1=00 03 00 27 01 38 01 36
+Frame 1 Enable=1
+Address 2=0
+Command 2=41
+Command Name 2=coeff
+Data Frame 2=00 64 00 65 00 66 03 E8
+Frame 2 Enable=1
+Address 3=0
+Command 3=43
+Command Name 3=output_cnf
+Data Frame 3=01 23 01
+Frame 3 Enable=0
+

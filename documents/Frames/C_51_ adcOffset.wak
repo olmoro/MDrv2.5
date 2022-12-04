@@ -1,0 +1,17 @@
+[Protocol]
+Address 1=00
+Command 1=51
+Command Name 1=Get ADC Offset
+Data Frame 1=
+Frame 1 Enable=0
+Address 2=00
+Command 2=52
+Command Name 2=Set Adc Offset
+Data Frame 2=0002
+Frame 2 Enable=0
+Address 3=00
+Command 3=10
+Command Name 3=Get V I
+Data Frame 3=
+Frame 3 Enable=0
+

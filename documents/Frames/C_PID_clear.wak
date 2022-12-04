@@ -1,0 +1,17 @@
+[Protocol]
+Address 1=0
+Command 1=63
+Command Name 1=63 I_control
+Data Frame 1=0 02 00 0001
+Frame 1 Enable=1
+Address 2=0
+Command 2=40
+Command Name 2=coeff
+Data Frame 2=01 0002  0032 0000 00 00
+Frame 2 Enable=1
+Address 3=0
+Command 3=44
+Command Name 3=clear
+Data Frame 3=
+Frame 3 Enable=1
+
