@@ -36,3 +36,4 @@ cmd_power_go|0x20|-|-|Старт преобразователя с заданн�
 cmd_power_stop|0x21|-|-|Отключение ( и разряда в том числе)
 cmd_pid_configure|0x40|uint uint uint uint uint uint|-|set mode,kp,ki,kd,min,max
 cmd_pid_set_coefficients|0x41|uint uint uint|-|set kp, ki, kd
+
