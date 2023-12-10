@@ -6,6 +6,10 @@
 		{
 			"name": "MDrv2.5",
 			"path": ".."
+		},
+		{
+			"name": "MDRV2.7",
+			"path": "../../MDRV2.7"
 		}
 	],
 	"settings": {}
